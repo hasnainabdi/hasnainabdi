@@ -8,6 +8,10 @@
   <img src="./assets/cover.png" alt="Muhammad Hasnain Cover" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=120&section=header" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
 <h3 align="center">Frontend Developer | Software Engineering Student | Digital Marketer</h3>
 
@@ -50,6 +54,10 @@ motto: "Passionate about Technology. Focused on Growth. Committed to Impact."
 - 🌱 Growing into **AI-powered web development** and modern React practices
 - 🛠️ I build **portfolio-ready, real-world web products** — not just tutorials
 - 📫 Reach me at **m.hasnainreactions@gmail.com**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="coding animation" />
+</p>
 
 ---
 
@@ -138,7 +146,6 @@ timeline
 <table align="center">
 <tr><th>Role</th><th>Organization</th><th>Duration</th></tr>
 <tr><td>Frontend Developer Intern</td><td>Intern Intelligence</td><td>Feb 2025 – Mar 2025</td></tr>
-<tr><td>Marketing</td><td>Pak-Qatar Group</td><td>Apr 2026 – Present</td></tr>
 </table>
 
 **Key wins:**
@@ -150,6 +157,10 @@ timeline
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainabdi&theme=redical&hide_border=true&area=true" width="100%" alt="activity graph" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasnainabdi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -191,3 +202,7 @@ timeline
 </p>
 
 <p align="center"><i>🎯 Passionate about Technology. Focused on Growth. Committed to Impact.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=100&section=footer" width="100%" />
+</p>

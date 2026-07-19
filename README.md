@@ -5,7 +5,7 @@
 
 <!-- PUT YOUR COVER PHOTO HERE — replace cover.png below -->
 <p align="center">
-  <img src="./assets/cover.png" alt="Muhammad Hasnain Cover" width="100%">
+  <img src="1779052728678.jpeg" alt="Muhammad Hasnain Cover" width="100%">
 </p>
 
 <p align="center">
